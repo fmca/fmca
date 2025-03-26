@@ -3,7 +3,7 @@
 I'm a **Software Engineer** and **Researcher** with expertise in **Formal Methods, Automated Software Testing, Natural Language Processing, and Smart Contracts**. Passionate about building robust, scalable, and verifiable software solutions.
 
 ## 🧑‍🎓 Academic
-- **Postdoctoral Research** @ [UFPE](https://www.ufpe.br/)
+- **Postdoc** @ [UFPE](https://www.ufpe.br/)
   - Smart Contracts | Formal Methods
 - **Ph.D. in Computer Science** @ UFPE
   - Automated Software Testing | Formal Methods | NLP
